@@ -1,1 +1,26 @@
-{"name":"第26回参議院議員総選挙","source":"https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin26/index.html","electionType":"sangiin","date":"2022-07-10","result":{"votes":[{"party":"幸福実現党","count":148020},{"party":"日本維新の会","count":7845995.351},{"party":"れいわ新選組","count":2319156.016},{"party":"公明党","count":6181431.937},{"party":"ごぼうの党","count":193724.387},{"party":"立憲民主党","count":6771945.011},{"party":"国民民主党","count":3159625.89},{"party":"参政党","count":1768385.409},{"party":"日本第一党","count":109045.614},{"party":"日本共産党","count":3618342.791},{"party":"新党くにもり","count":77861},{"party":"自由民主党","count":18256245.411},{"party":"社会民主党","count":1258501.715},{"party":"ＮＨＫ党","count":1253872.467},{"party":"維新政党・新風","count":65107}],"totalCount":53027260.002}}
+{
+  "name": "第26回参議院議員通常選挙",
+  "source": "https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin26/index.html",
+  "electionType": "sangiin",
+  "date": "2022-07-10",
+  "result": {
+    "votes": [
+      { "party": "幸福実現党", "count": 148020 },
+      { "party": "日本維新の会", "count": 7845995.351 },
+      { "party": "れいわ新選組", "count": 2319156.016 },
+      { "party": "公明党", "count": 6181431.937 },
+      { "party": "ごぼうの党", "count": 193724.387 },
+      { "party": "立憲民主党", "count": 6771945.011 },
+      { "party": "国民民主党", "count": 3159625.89 },
+      { "party": "参政党", "count": 1768385.409 },
+      { "party": "日本第一党", "count": 109045.614 },
+      { "party": "日本共産党", "count": 3618342.791 },
+      { "party": "新党くにもり", "count": 77861 },
+      { "party": "自由民主党", "count": 18256245.411 },
+      { "party": "社会民主党", "count": 1258501.715 },
+      { "party": "ＮＨＫ党", "count": 1253872.467 },
+      { "party": "維新政党・新風", "count": 65107 }
+    ],
+    "totalCount": 53027260.002
+  }
+}

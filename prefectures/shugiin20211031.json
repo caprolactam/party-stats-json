@@ -1,1 +1,764 @@
-{"name":"第49回衆議院議員総選挙","source":"https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/index.html","electionType":"shugiin","date":"2021-10-31","result":[{"name":"北海道","code":"010006","votes":[{"party":"社会民主党","count":41248},{"party":"公明党","count":294371},{"party":"立憲民主党","count":682912.581},{"party":"国民民主党","count":73621.234},{"party":"自由民主党","count":863300},{"party":"日本共産党","count":207189},{"party":"日本維新の会","count":215344},{"party":"れいわ新選組","count":102086},{"party":"支持政党なし","count":46142},{"party":"NHKと裁判してる党弁護士法72条違反で","count":42916}],"totalCount":2569129.815},{"name":"青森県","code":"020001","votes":[{"party":"社会民主党","count":14873},{"party":"立憲民主党","count":131532.928},{"party":"日本共産党","count":43451},{"party":"自由民主党","count":239245},{"party":"日本維新の会","count":24295},{"party":"国民民主党","count":13935.032},{"party":"れいわ新選組","count":18066},{"party":"公明党","count":60974},{"party":"NHKと裁判してる党弁護士法72条違反で","count":6892}],"totalCount":553263.961},{"name":"岩手県","code":"030007","votes":[{"party":"社会民主党","count":18554},{"party":"立憲民主党","count":176838.265},{"party":"日本共産党","count":48534},{"party":"自由民主党","count":214750},{"party":"日本維新の会","count":27617},{"party":"国民民主党","count":31413.701},{"party":"れいわ新選組","count":22975},{"party":"公明党","count":55728},{"party":"NHKと裁判してる党弁護士法72条違反で","count":8489}],"totalCount":604898.967},{"name":"宮城県","code":"040002","votes":[{"party":"社会民主党","count":23927},{"party":"立憲民主党","count":239032.645},{"party":"日本共産党","count":75796},{"party":"自由民主党","count":390966},{"party":"日本維新の会","count":104765},{"party":"国民民主党","count":40986.316},{"party":"れいわ新選組","count":36756},{"party":"公明党","count":119565},{"party":"NHKと裁判してる党弁護士法72条違反で","count":13451}],"totalCount":1045244.961},{"name":"秋田県","code":"050008","votes":[{"party":"社会民主党","count":11043},{"party":"立憲民主党","count":99571.849},{"party":"日本共産党","count":27864},{"party":"自由民主党","count":214554},{"party":"日本維新の会","count":26561},{"party":"国民民主党","count":24399.126},{"party":"れいわ新選組","count":12760},{"party":"公明党","count":51281},{"party":"NHKと裁判してる党弁護士法72条違反で","count":4978}],"totalCount":473011.975},{"name":"山形県","code":"060003","votes":[{"party":"社会民主党","count":12826},{"party":"立憲民主党","count":117758.06},{"party":"日本共産党","count":33690},{"party":"自由民主党","count":235074},{"party":"日本維新の会","count":28637},{"party":"国民民主党","count":39047.905},{"party":"れいわ新選組","count":19096},{"party":"公明党","count":69887},{"party":"NHKと裁判してる党弁護士法72条違反で","count":7329}],"totalCount":563344.965},{"name":"福島県","code":"070009","votes":[{"party":"社会民主党","count":20219},{"party":"立憲民主党","count":226770.981},{"party":"日本共産党","count":63495},{"party":"自由民主党","count":333644},{"party":"日本維新の会","count":46815},{"party":"国民民主党","count":45971.961},{"party":"れいわ新選組","count":33612},{"party":"公明党","count":98852},{"party":"NHKと裁判してる党弁護士法72条違反で","count":11525}],"totalCount":880904.942},{"name":"茨城県","code":"080004","votes":[{"party":"自由民主党","count":471179},{"party":"日本共産党","count":70097},{"party":"立憲民主党","count":249632.972},{"party":"公明党","count":173932},{"party":"日本維新の会","count":121964},{"party":"れいわ新選組","count":46166},{"party":"社会民主党","count":15661},{"party":"国民民主党","count":72784.978},{"party":"NHKと裁判してる党弁護士法72条違反で","count":16184}],"totalCount":1237600.951},{"name":"栃木県","code":"090000","votes":[{"party":"自由民主党","count":317916},{"party":"日本共産党","count":37600},{"party":"立憲民主党","count":204098.047},{"party":"公明党","count":97469},{"party":"日本維新の会","count":85832},{"party":"れいわ新選組","count":29994},{"party":"社会民主党","count":13355},{"party":"国民民主党","count":35354.923},{"party":"NHKと裁判してる党弁護士法72条違反で","count":12323}],"totalCount":833941.969},{"name":"群馬県","code":"100005","votes":[{"party":"自由民主党","count":325171},{"party":"日本共産党","count":61592},{"party":"立憲民主党","count":170832.951},{"party":"公明党","count":121067},{"party":"日本維新の会","count":78652},{"party":"れいわ新選組","count":30901},{"party":"社会民主党","count":16506},{"party":"国民民主党","count":29689.01},{"party":"NHKと裁判してる党弁護士法72条違反で","count":12874}],"totalCount":847284.96},{"name":"埼玉県","code":"110001","votes":[{"party":"自由民主党","count":1057799},{"party":"日本共産党","count":274826},{"party":"立憲民主党","count":766584.657},{"party":"公明党","count":431462},{"party":"日本維新の会","count":331083},{"party":"れいわ新選組","count":132531},{"party":"社会民主党","count":52441},{"party":"国民民主党","count":160227.262},{"party":"NHKと裁判してる党弁護士法72条違反で","count":46321}],"totalCount":3253274.919},{"name":"千葉県","code":"120006","votes":[{"party":"社会民主党","count":39189},{"party":"れいわ新選組","count":104798},{"party":"日本共産党","count":192933},{"party":"立憲民主党","count":609764.923},{"party":"公明党","count":343148},{"party":"国民民主党","count":147432.013},{"party":"自由民主党","count":980402},{"party":"日本維新の会","count":309177},{"party":"NHKと裁判してる党弁護士法72条違反で","count":37712}],"totalCount":2764555.936},{"name":"東京都","code":"130001","votes":[{"party":"自由民主党","count":2000084},{"party":"社会民主党","count":92995},{"party":"国民民主党","count":306179.756},{"party":"日本維新の会","count":858577},{"party":"日本第一党","count":33661},{"party":"れいわ新選組","count":360387},{"party":"公明党","count":715450},{"party":"新党やまと","count":16970},{"party":"日本共産党","count":670340},{"party":"立憲民主党","count":1293281.167},{"party":"政権交代によるコロナ対策強化新党","count":6620},{"party":"NHKと裁判してる党弁護士法72条違反で","count":92353}],"totalCount":6446897.924},{"name":"神奈川県","code":"140007","votes":[{"party":"社会民主党","count":79372},{"party":"れいわ新選組","count":181280},{"party":"日本共産党","count":315577},{"party":"立憲民主党","count":941783.675},{"party":"公明党","count":460450},{"party":"国民民主党","count":218791.264},{"party":"自由民主党","count":1450631},{"party":"日本維新の会","count":530707},{"party":"NHKと裁判してる党弁護士法72条違反で","count":68423}],"totalCount":4247014.939},{"name":"新潟県","code":"150002","votes":[{"party":"国民民主党","count":45964.276},{"party":"立憲民主党","count":278147.682},{"party":"社会民主党","count":26962},{"party":"公明党","count":99934},{"party":"日本維新の会","count":74378},{"party":"日本共産党","count":70684},{"party":"自由民主党","count":505330},{"party":"れいわ新選組","count":34976},{"party":"NHKと裁判してる党弁護士法72条違反で","count":13547}],"totalCount":1149922.957},{"name":"富山県","code":"160008","votes":[{"party":"国民民主党","count":16566.664},{"party":"立憲民主党","count":60284.319},{"party":"社会民主党","count":10238},{"party":"公明党","count":39692},{"party":"日本維新の会","count":87171},{"party":"日本共産党","count":23769},{"party":"自由民主党","count":216307},{"party":"れいわ新選組","count":13509},{"party":"NHKと裁判してる党弁護士法72条違反で","count":6114}],"totalCount":473650.984},{"name":"石川県","code":"170003","votes":[{"party":"国民民主党","count":18491.118},{"party":"立憲民主党","count":96196.863},{"party":"社会民主党","count":10207},{"party":"公明党","count":45583},{"party":"日本維新の会","count":75608},{"party":"日本共産党","count":23356},{"party":"自由民主党","count":231169},{"party":"れいわ新選組","count":16453},{"party":"NHKと裁判してる党弁護士法72条違反で","count":7143}],"totalCount":524206.982},{"name":"福井県","code":"180009","votes":[{"party":"国民民主党","count":12954.685},{"party":"立憲民主党","count":74957.296},{"party":"社会民主党","count":3960},{"party":"公明党","count":34078},{"party":"日本維新の会","count":32760},{"party":"日本共産党","count":18920},{"party":"自由民主党","count":164749},{"party":"れいわ新選組","count":12348},{"party":"NHKと裁判してる党弁護士法72条違反で","count":4524}],"totalCount":359250.983},{"name":"山梨県","code":"190004","votes":[{"party":"社会民主党","count":5886},{"party":"れいわ新選組","count":16597},{"party":"日本共産党","count":25983},{"party":"立憲民主党","count":100013.402},{"party":"公明党","count":47069},{"party":"国民民主党","count":18258.571},{"party":"自由民主党","count":159754},{"party":"日本維新の会","count":24013},{"party":"NHKと裁判してる党弁護士法72条違反で","count":5163}],"totalCount":402736.974},{"name":"長野県","code":"200000","votes":[{"party":"国民民主党","count":39622.986},{"party":"立憲民主党","count":263489.937},{"party":"社会民主党","count":19818},{"party":"公明党","count":103248},{"party":"日本維新の会","count":91559},{"party":"日本共産党","count":88822},{"party":"自由民主党","count":350825},{"party":"れいわ新選組","count":33995},{"party":"NHKと裁判してる党弁護士法72条違反で","count":12201}],"totalCount":1003580.923},{"name":"岐阜県","code":"210005","votes":[{"party":"国民民主党","count":46374.819},{"party":"自由民主党","count":376259},{"party":"日本共産党","count":58251},{"party":"立憲民主党","count":192235.137},{"party":"日本維新の会","count":93688},{"party":"社会民主党","count":11132},{"party":"れいわ新選組","count":35379},{"party":"公明党","count":108348},{"party":"NHKと裁判してる党弁護士法72条違反で","count":12767}],"totalCount":934433.956},{"name":"静岡県","code":"220001","votes":[{"party":"国民民主党","count":114343.226},{"party":"自由民主党","count":639005},{"party":"日本共産党","count":90824},{"party":"立憲民主党","count":340184.725},{"party":"日本維新の会","count":158381},{"party":"社会民主党","count":20522},{"party":"れいわ新選組","count":58690},{"party":"公明党","count":184221},{"party":"NHKと裁判してる党弁護士法72条違反で","count":20750}],"totalCount":1626920.952},{"name":"愛知県","code":"230006","votes":[{"party":"国民民主党","count":190520.518},{"party":"自由民主党","count":1205790},{"party":"日本共産党","count":216281},{"party":"立憲民主党","count":750876.412},{"party":"日本維新の会","count":368716},{"party":"社会民主党","count":43006},{"party":"れいわ新選組","count":147121},{"party":"公明党","count":380316},{"party":"NHKと裁判してる党弁護士法72条違反で","count":53027}],"totalCount":3355653.929},{"name":"三重県","code":"240001","votes":[{"party":"国民民主党","count":31494.987},{"party":"自由民主党","count":294787},{"party":"日本共産党","count":43250},{"party":"立憲民主党","count":202650.982},{"party":"日本維新の会","count":73845},{"party":"社会民主党","count":9560},{"party":"れいわ新選組","count":32018},{"party":"公明党","count":112091},{"party":"NHKと裁判してる党弁護士法72条違反で","count":11694}],"totalCount":811390.969},{"name":"滋賀県","code":"250007","votes":[{"party":"れいわ新選組","count":27013},{"party":"国民民主党","count":32813.278},{"party":"立憲民主党","count":102056.703},{"party":"社会民主党","count":9568},{"party":"公明党","count":56067},{"party":"自由民主党","count":227218},{"party":"日本共産党","count":47019},{"party":"日本維新の会","count":137639},{"party":"NHKと裁判してる党弁護士法72条違反で","count":8420}],"totalCount":647813.981},{"name":"京都府","code":"260002","votes":[{"party":"れいわ新選組","count":42599},{"party":"国民民主党","count":59593.651},{"party":"立憲民主党","count":158980.313},{"party":"社会民主党","count":13006},{"party":"公明党","count":113605},{"party":"自由民主党","count":338013},{"party":"日本共産党","count":152865},{"party":"日本維新の会","count":266728},{"party":"NHKと裁判してる党弁護士法72条違反で","count":14163}],"totalCount":1159552.965},{"name":"大阪府","code":"270008","votes":[{"party":"れいわ新選組","count":114198},{"party":"国民民主党","count":89173.242},{"party":"立憲民主党","count":363555.685},{"party":"社会民主党","count":38596},{"party":"公明党","count":539724},{"party":"自由民主党","count":823963},{"party":"日本共産党","count":306725},{"party":"日本維新の会","count":1715862},{"party":"NHKと裁判してる党弁護士法72条違反で","count":44851}],"totalCount":4036647.927},{"name":"兵庫県","code":"280003","votes":[{"party":"れいわ新選組","count":79532},{"party":"国民民主党","count":73463.944},{"party":"立憲民主党","count":324792.003},{"party":"社会民主党","count":28456},{"party":"公明党","count":297967},{"party":"自由民主党","count":666068},{"party":"日本共産党","count":151090},{"party":"日本維新の会","count":779820},{"party":"NHKと裁判してる党弁護士法72条違反で","count":29737}],"totalCount":2430925.947},{"name":"奈良県","code":"290009","votes":[{"party":"れいわ新選組","count":17614},{"party":"国民民主党","count":22697.709},{"party":"立憲民主党","count":91054.254},{"party":"社会民主党","count":7500},{"party":"公明党","count":77011},{"party":"自由民主党","count":199926},{"party":"日本共産党","count":45841},{"party":"日本維新の会","count":183357},{"party":"NHKと裁判してる党弁護士法72条違反で","count":8319}],"totalCount":653319.964},{"name":"和歌山県","code":"300004","votes":[{"party":"れいわ新選組","count":11527},{"party":"国民民主党","count":25738.174},{"party":"立憲民主党","count":50226.797},{"party":"社会民主党","count":3854},{"party":"公明党","count":71309},{"party":"自由民主党","count":152511},{"party":"日本共産党","count":32616},{"party":"日本維新の会","count":96813},{"party":"NHKと裁判してる党弁護士法72条違反で","count":6049}],"totalCount":450643.972},{"name":"鳥取県","code":"310000","votes":[{"party":"国民民主党","count":8377.934},{"party":"公明党","count":43198},{"party":"社会民主党","count":4256},{"party":"れいわ新選組","count":9071},{"party":"日本維新の会","count":20601},{"party":"自由民主党","count":95732},{"party":"立憲民主党","count":62204.047},{"party":"日本共産党","count":15820},{"party":"NHKと裁判してる党弁護士法72条違反で","count":2789}],"totalCount":262048.982},{"name":"島根県","code":"320005","votes":[{"party":"国民民主党","count":11710.183},{"party":"公明党","count":42761},{"party":"社会民主党","count":7015},{"party":"れいわ新選組","count":9677},{"party":"日本維新の会","count":24894},{"party":"自由民主党","count":143209},{"party":"立憲民主党","count":74178.796},{"party":"日本共産党","count":19384},{"party":"NHKと裁判してる党弁護士法72条違反で","count":3883}],"totalCount":336711.98},{"name":"岡山県","code":"330001","votes":[{"party":"国民民主党","count":36888.958},{"party":"公明党","count":124344},{"party":"社会民主党","count":10669},{"party":"れいわ新選組","count":23544},{"party":"日本維新の会","count":76193},{"party":"自由民主党","count":295498},{"party":"立憲民主党","count":154386.004},{"party":"日本共産党","count":49420},{"party":"NHKと裁判してる党弁護士法72条違反で","count":10658}],"totalCount":781600.963},{"name":"広島県","code":"340006","votes":[{"party":"国民民主党","count":41711.407},{"party":"公明党","count":146443},{"party":"社会民主党","count":22705},{"party":"れいわ新選組","count":32955},{"party":"日本維新の会","count":123542},{"party":"自由民主党","count":544121},{"party":"立憲民主党","count":201577.557},{"party":"日本共産党","count":58682},{"party":"NHKと裁判してる党弁護士法72条違反で","count":14716}],"totalCount":1186452.964},{"name":"山口県","code":"350001","votes":[{"party":"国民民主党","count":15210.028},{"party":"公明党","count":79474},{"party":"社会民主党","count":7993},{"party":"れいわ新選組","count":19199},{"party":"日本維新の会","count":41072},{"party":"自由民主党","count":274163},{"party":"立憲民主党","count":80977.95},{"party":"日本共産党","count":29811},{"party":"NHKと裁判してる党弁護士法72条違反で","count":4712}],"totalCount":552611.978},{"name":"徳島県","code":"360007","votes":[{"party":"社会民主党","count":3765},{"party":"公明党","count":46420},{"party":"国民民主党","count":12517.018},{"party":"自由民主党","count":115016},{"party":"日本共産党","count":22104},{"party":"日本維新の会","count":54800},{"party":"立憲民主党","count":50130.958},{"party":"れいわ新選組","count":12096},{"party":"NHKと裁判してる党弁護士法72条違反で","count":4751}],"totalCount":321599.977},{"name":"香川県","code":"370002","votes":[{"party":"社会民主党","count":8995},{"party":"公明党","count":51723},{"party":"国民民主党","count":72739.265},{"party":"自由民主党","count":176572},{"party":"日本共産党","count":20013},{"party":"日本維新の会","count":38752},{"party":"立憲民主党","count":58071.716},{"party":"れいわ新選組","count":11208},{"party":"NHKと裁判してる党弁護士法72条違反で","count":5005}],"totalCount":443078.981},{"name":"愛媛県","code":"380008","votes":[{"party":"社会民主党","count":12418},{"party":"公明党","count":86089},{"party":"国民民主党","count":26877.292},{"party":"自由民主党","count":248667},{"party":"日本共産党","count":31689},{"party":"日本維新の会","count":60253},{"party":"立憲民主党","count":112546.686},{"party":"れいわ新選組","count":19734},{"party":"NHKと裁判してる党弁護士法72条違反で","count":7473}],"totalCount":605746.978},{"name":"高知県","code":"390003","votes":[{"party":"社会民主党","count":5071},{"party":"公明党","count":49175},{"party":"国民民主党","count":9948.63},{"party":"自由民主党","count":124550},{"party":"日本共産党","count":34215},{"party":"日本維新の会","count":20021},{"party":"立憲民主党","count":71121.334},{"party":"れいわ新選組","count":9903},{"party":"NHKと裁判してる党弁護士法72条違反で","count":4056}],"totalCount":328060.966},{"name":"福岡県","code":"400009","votes":[{"party":"公明党","count":371843},{"party":"立憲民主党","count":414722.492},{"party":"日本維新の会","count":237590},{"party":"日本共産党","count":139724},{"party":"れいわ新選組","count":92833},{"party":"自由民主党","count":706799},{"party":"社会民主党","count":53427},{"party":"国民民主党","count":93864.435},{"party":"NHKと裁判してる党弁護士法72条違反で","count":33058}],"totalCount":2143860.928},{"name":"佐賀県","code":"410004","votes":[{"party":"公明党","count":49119},{"party":"立憲民主党","count":99058.394},{"party":"日本維新の会","count":23596},{"party":"日本共産党","count":14659},{"party":"れいわ新選組","count":12187},{"party":"自由民主党","count":158771},{"party":"社会民主党","count":8106},{"party":"国民民主党","count":13236.586},{"party":"NHKと裁判してる党弁護士法72条違反で","count":5201}],"totalCount":383933.98},{"name":"長崎県","code":"420000","votes":[{"party":"公明党","count":96643},{"party":"立憲民主党","count":121086.596},{"party":"日本維新の会","count":44033},{"party":"日本共産党","count":29740},{"party":"れいわ新選組","count":18420},{"party":"自由民主党","count":228030},{"party":"社会民主党","count":15197},{"party":"国民民主党","count":53700.38},{"party":"NHKと裁判してる党弁護士法72条違反で","count":7129}],"totalCount":613978.976},{"name":"熊本県","code":"430005","votes":[{"party":"公明党","count":135533},{"party":"立憲民主党","count":151508.844},{"party":"日本維新の会","count":56937},{"party":"日本共産党","count":34073},{"party":"れいわ新選組","count":27359},{"party":"自由民主党","count":323194},{"party":"社会民主党","count":19517},{"party":"国民民主党","count":30751.105},{"party":"NHKと裁判してる党弁護士法72条違反で","count":14051}],"totalCount":792923.95},{"name":"大分県","code":"440001","votes":[{"party":"公明党","count":74279},{"party":"立憲民主党","count":118319.874},{"party":"日本維新の会","count":39846},{"party":"日本共産党","count":28081},{"party":"れいわ新選組","count":18714},{"party":"自由民主党","count":192218},{"party":"社会民主党","count":28037},{"party":"国民民主党","count":19992.106},{"party":"NHKと裁判してる党弁護士法72条違反で","count":7817}],"totalCount":527303.981},{"name":"宮崎県","code":"450006","votes":[{"party":"公明党","count":76674},{"party":"立憲民主党","count":81256.996},{"party":"日本維新の会","count":42888},{"party":"日本共産党","count":24895},{"party":"れいわ新選組","count":13297},{"party":"自由民主党","count":183582},{"party":"社会民主党","count":16568},{"party":"国民民主党","count":24824.979},{"party":"NHKと裁判してる党弁護士法72条違反で","count":8258}],"totalCount":472243.975},{"name":"鹿児島県","code":"460001","votes":[{"party":"公明党","count":107198},{"party":"立憲民主党","count":155735.061},{"party":"日本維新の会","count":58188},{"party":"日本共産党","count":34335},{"party":"れいわ新選組","count":24062},{"party":"自由民主党","count":310855},{"party":"社会民主党","count":26703},{"party":"国民民主党","count":23588.894},{"party":"NHKと裁判してる党弁護士法72条違反で","count":11460}],"totalCount":752124.954},{"name":"沖縄県","code":"470007","votes":[{"party":"公明党","count":129467},{"party":"立憲民主党","count":125113.182},{"party":"日本維新の会","count":37260},{"party":"日本共産党","count":60151},{"party":"れいわ新選組","count":36412},{"party":"自由民主党","count":147517},{"party":"社会民主党","count":53666},{"party":"国民民主党","count":19550.693},{"party":"NHKと裁判してる党弁護士法72条違反で","count":11532}],"totalCount":620668.874}]}
+{
+  "name": "第49回衆議院議員総選挙",
+  "source": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin49/index.html",
+  "electionType": "shugiin",
+  "date": "2021-10-31",
+  "result": [
+    {
+      "name": "北海道",
+      "code": "010006",
+      "votes": [
+        { "party": "社会民主党", "count": 41248 },
+        { "party": "公明党", "count": 294371 },
+        { "party": "立憲民主党", "count": 682912.581 },
+        { "party": "国民民主党", "count": 73621.234 },
+        { "party": "自由民主党", "count": 863300 },
+        { "party": "日本共産党", "count": 207189 },
+        { "party": "日本維新の会", "count": 215344 },
+        { "party": "れいわ新選組", "count": 102086 },
+        { "party": "支持政党なし", "count": 46142 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 42916 }
+      ],
+      "totalCount": 2569129.815
+    },
+    {
+      "name": "青森県",
+      "code": "020001",
+      "votes": [
+        { "party": "社会民主党", "count": 14873 },
+        { "party": "立憲民主党", "count": 131532.928 },
+        { "party": "日本共産党", "count": 43451 },
+        { "party": "自由民主党", "count": 239245 },
+        { "party": "日本維新の会", "count": 24295 },
+        { "party": "国民民主党", "count": 13935.032 },
+        { "party": "れいわ新選組", "count": 18066 },
+        { "party": "公明党", "count": 60974 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 6892 }
+      ],
+      "totalCount": 553263.961
+    },
+    {
+      "name": "岩手県",
+      "code": "030007",
+      "votes": [
+        { "party": "社会民主党", "count": 18554 },
+        { "party": "立憲民主党", "count": 176838.265 },
+        { "party": "日本共産党", "count": 48534 },
+        { "party": "自由民主党", "count": 214750 },
+        { "party": "日本維新の会", "count": 27617 },
+        { "party": "国民民主党", "count": 31413.701 },
+        { "party": "れいわ新選組", "count": 22975 },
+        { "party": "公明党", "count": 55728 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 8489 }
+      ],
+      "totalCount": 604898.967
+    },
+    {
+      "name": "宮城県",
+      "code": "040002",
+      "votes": [
+        { "party": "社会民主党", "count": 23927 },
+        { "party": "立憲民主党", "count": 239032.645 },
+        { "party": "日本共産党", "count": 75796 },
+        { "party": "自由民主党", "count": 390966 },
+        { "party": "日本維新の会", "count": 104765 },
+        { "party": "国民民主党", "count": 40986.316 },
+        { "party": "れいわ新選組", "count": 36756 },
+        { "party": "公明党", "count": 119565 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 13451 }
+      ],
+      "totalCount": 1045244.961
+    },
+    {
+      "name": "秋田県",
+      "code": "050008",
+      "votes": [
+        { "party": "社会民主党", "count": 11043 },
+        { "party": "立憲民主党", "count": 99571.849 },
+        { "party": "日本共産党", "count": 27864 },
+        { "party": "自由民主党", "count": 214554 },
+        { "party": "日本維新の会", "count": 26561 },
+        { "party": "国民民主党", "count": 24399.126 },
+        { "party": "れいわ新選組", "count": 12760 },
+        { "party": "公明党", "count": 51281 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 4978 }
+      ],
+      "totalCount": 473011.975
+    },
+    {
+      "name": "山形県",
+      "code": "060003",
+      "votes": [
+        { "party": "社会民主党", "count": 12826 },
+        { "party": "立憲民主党", "count": 117758.06 },
+        { "party": "日本共産党", "count": 33690 },
+        { "party": "自由民主党", "count": 235074 },
+        { "party": "日本維新の会", "count": 28637 },
+        { "party": "国民民主党", "count": 39047.905 },
+        { "party": "れいわ新選組", "count": 19096 },
+        { "party": "公明党", "count": 69887 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 7329 }
+      ],
+      "totalCount": 563344.965
+    },
+    {
+      "name": "福島県",
+      "code": "070009",
+      "votes": [
+        { "party": "社会民主党", "count": 20219 },
+        { "party": "立憲民主党", "count": 226770.981 },
+        { "party": "日本共産党", "count": 63495 },
+        { "party": "自由民主党", "count": 333644 },
+        { "party": "日本維新の会", "count": 46815 },
+        { "party": "国民民主党", "count": 45971.961 },
+        { "party": "れいわ新選組", "count": 33612 },
+        { "party": "公明党", "count": 98852 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 11525 }
+      ],
+      "totalCount": 880904.942
+    },
+    {
+      "name": "茨城県",
+      "code": "080004",
+      "votes": [
+        { "party": "自由民主党", "count": 471179 },
+        { "party": "日本共産党", "count": 70097 },
+        { "party": "立憲民主党", "count": 249632.972 },
+        { "party": "公明党", "count": 173932 },
+        { "party": "日本維新の会", "count": 121964 },
+        { "party": "れいわ新選組", "count": 46166 },
+        { "party": "社会民主党", "count": 15661 },
+        { "party": "国民民主党", "count": 72784.978 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 16184 }
+      ],
+      "totalCount": 1237600.951
+    },
+    {
+      "name": "栃木県",
+      "code": "090000",
+      "votes": [
+        { "party": "自由民主党", "count": 317916 },
+        { "party": "日本共産党", "count": 37600 },
+        { "party": "立憲民主党", "count": 204098.047 },
+        { "party": "公明党", "count": 97469 },
+        { "party": "日本維新の会", "count": 85832 },
+        { "party": "れいわ新選組", "count": 29994 },
+        { "party": "社会民主党", "count": 13355 },
+        { "party": "国民民主党", "count": 35354.923 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 12323 }
+      ],
+      "totalCount": 833941.969
+    },
+    {
+      "name": "群馬県",
+      "code": "100005",
+      "votes": [
+        { "party": "自由民主党", "count": 325171 },
+        { "party": "日本共産党", "count": 61592 },
+        { "party": "立憲民主党", "count": 170832.951 },
+        { "party": "公明党", "count": 121067 },
+        { "party": "日本維新の会", "count": 78652 },
+        { "party": "れいわ新選組", "count": 30901 },
+        { "party": "社会民主党", "count": 16506 },
+        { "party": "国民民主党", "count": 29689.01 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 12874 }
+      ],
+      "totalCount": 847284.96
+    },
+    {
+      "name": "埼玉県",
+      "code": "110001",
+      "votes": [
+        { "party": "自由民主党", "count": 1057799 },
+        { "party": "日本共産党", "count": 274826 },
+        { "party": "立憲民主党", "count": 766584.657 },
+        { "party": "公明党", "count": 431462 },
+        { "party": "日本維新の会", "count": 331083 },
+        { "party": "れいわ新選組", "count": 132531 },
+        { "party": "社会民主党", "count": 52441 },
+        { "party": "国民民主党", "count": 160227.262 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 46321 }
+      ],
+      "totalCount": 3253274.919
+    },
+    {
+      "name": "千葉県",
+      "code": "120006",
+      "votes": [
+        { "party": "社会民主党", "count": 39189 },
+        { "party": "れいわ新選組", "count": 104798 },
+        { "party": "日本共産党", "count": 192933 },
+        { "party": "立憲民主党", "count": 609764.923 },
+        { "party": "公明党", "count": 343148 },
+        { "party": "国民民主党", "count": 147432.013 },
+        { "party": "自由民主党", "count": 980402 },
+        { "party": "日本維新の会", "count": 309177 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 37712 }
+      ],
+      "totalCount": 2764555.936
+    },
+    {
+      "name": "東京都",
+      "code": "130001",
+      "votes": [
+        { "party": "自由民主党", "count": 2000084 },
+        { "party": "社会民主党", "count": 92995 },
+        { "party": "国民民主党", "count": 306179.756 },
+        { "party": "日本維新の会", "count": 858577 },
+        { "party": "日本第一党", "count": 33661 },
+        { "party": "れいわ新選組", "count": 360387 },
+        { "party": "公明党", "count": 715450 },
+        { "party": "新党やまと", "count": 16970 },
+        { "party": "日本共産党", "count": 670340 },
+        { "party": "立憲民主党", "count": 1293281.167 },
+        { "party": "政権交代によるコロナ対策強化新党", "count": 6620 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 92353 }
+      ],
+      "totalCount": 6446897.924
+    },
+    {
+      "name": "神奈川県",
+      "code": "140007",
+      "votes": [
+        { "party": "社会民主党", "count": 79372 },
+        { "party": "れいわ新選組", "count": 181280 },
+        { "party": "日本共産党", "count": 315577 },
+        { "party": "立憲民主党", "count": 941783.675 },
+        { "party": "公明党", "count": 460450 },
+        { "party": "国民民主党", "count": 218791.264 },
+        { "party": "自由民主党", "count": 1450631 },
+        { "party": "日本維新の会", "count": 530707 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 68423 }
+      ],
+      "totalCount": 4247014.939
+    },
+    {
+      "name": "新潟県",
+      "code": "150002",
+      "votes": [
+        { "party": "国民民主党", "count": 45964.276 },
+        { "party": "立憲民主党", "count": 278147.682 },
+        { "party": "社会民主党", "count": 26962 },
+        { "party": "公明党", "count": 99934 },
+        { "party": "日本維新の会", "count": 74378 },
+        { "party": "日本共産党", "count": 70684 },
+        { "party": "自由民主党", "count": 505330 },
+        { "party": "れいわ新選組", "count": 34976 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 13547 }
+      ],
+      "totalCount": 1149922.957
+    },
+    {
+      "name": "富山県",
+      "code": "160008",
+      "votes": [
+        { "party": "国民民主党", "count": 16566.664 },
+        { "party": "立憲民主党", "count": 60284.319 },
+        { "party": "社会民主党", "count": 10238 },
+        { "party": "公明党", "count": 39692 },
+        { "party": "日本維新の会", "count": 87171 },
+        { "party": "日本共産党", "count": 23769 },
+        { "party": "自由民主党", "count": 216307 },
+        { "party": "れいわ新選組", "count": 13509 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 6114 }
+      ],
+      "totalCount": 473650.984
+    },
+    {
+      "name": "石川県",
+      "code": "170003",
+      "votes": [
+        { "party": "国民民主党", "count": 18491.118 },
+        { "party": "立憲民主党", "count": 96196.863 },
+        { "party": "社会民主党", "count": 10207 },
+        { "party": "公明党", "count": 45583 },
+        { "party": "日本維新の会", "count": 75608 },
+        { "party": "日本共産党", "count": 23356 },
+        { "party": "自由民主党", "count": 231169 },
+        { "party": "れいわ新選組", "count": 16453 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 7143 }
+      ],
+      "totalCount": 524206.982
+    },
+    {
+      "name": "福井県",
+      "code": "180009",
+      "votes": [
+        { "party": "国民民主党", "count": 12954.685 },
+        { "party": "立憲民主党", "count": 74957.296 },
+        { "party": "社会民主党", "count": 3960 },
+        { "party": "公明党", "count": 34078 },
+        { "party": "日本維新の会", "count": 32760 },
+        { "party": "日本共産党", "count": 18920 },
+        { "party": "自由民主党", "count": 164749 },
+        { "party": "れいわ新選組", "count": 12348 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 4524 }
+      ],
+      "totalCount": 359250.983
+    },
+    {
+      "name": "山梨県",
+      "code": "190004",
+      "votes": [
+        { "party": "社会民主党", "count": 5886 },
+        { "party": "れいわ新選組", "count": 16597 },
+        { "party": "日本共産党", "count": 25983 },
+        { "party": "立憲民主党", "count": 100013.402 },
+        { "party": "公明党", "count": 47069 },
+        { "party": "国民民主党", "count": 18258.571 },
+        { "party": "自由民主党", "count": 159754 },
+        { "party": "日本維新の会", "count": 24013 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 5163 }
+      ],
+      "totalCount": 402736.974
+    },
+    {
+      "name": "長野県",
+      "code": "200000",
+      "votes": [
+        { "party": "国民民主党", "count": 39622.986 },
+        { "party": "立憲民主党", "count": 263489.937 },
+        { "party": "社会民主党", "count": 19818 },
+        { "party": "公明党", "count": 103248 },
+        { "party": "日本維新の会", "count": 91559 },
+        { "party": "日本共産党", "count": 88822 },
+        { "party": "自由民主党", "count": 350825 },
+        { "party": "れいわ新選組", "count": 33995 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 12201 }
+      ],
+      "totalCount": 1003580.923
+    },
+    {
+      "name": "岐阜県",
+      "code": "210005",
+      "votes": [
+        { "party": "国民民主党", "count": 46374.819 },
+        { "party": "自由民主党", "count": 376259 },
+        { "party": "日本共産党", "count": 58251 },
+        { "party": "立憲民主党", "count": 192235.137 },
+        { "party": "日本維新の会", "count": 93688 },
+        { "party": "社会民主党", "count": 11132 },
+        { "party": "れいわ新選組", "count": 35379 },
+        { "party": "公明党", "count": 108348 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 12767 }
+      ],
+      "totalCount": 934433.956
+    },
+    {
+      "name": "静岡県",
+      "code": "220001",
+      "votes": [
+        { "party": "国民民主党", "count": 114343.226 },
+        { "party": "自由民主党", "count": 639005 },
+        { "party": "日本共産党", "count": 90824 },
+        { "party": "立憲民主党", "count": 340184.725 },
+        { "party": "日本維新の会", "count": 158381 },
+        { "party": "社会民主党", "count": 20522 },
+        { "party": "れいわ新選組", "count": 58690 },
+        { "party": "公明党", "count": 184221 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 20750 }
+      ],
+      "totalCount": 1626920.952
+    },
+    {
+      "name": "愛知県",
+      "code": "230006",
+      "votes": [
+        { "party": "国民民主党", "count": 190520.518 },
+        { "party": "自由民主党", "count": 1205790 },
+        { "party": "日本共産党", "count": 216281 },
+        { "party": "立憲民主党", "count": 750876.412 },
+        { "party": "日本維新の会", "count": 368716 },
+        { "party": "社会民主党", "count": 43006 },
+        { "party": "れいわ新選組", "count": 147121 },
+        { "party": "公明党", "count": 380316 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 53027 }
+      ],
+      "totalCount": 3355653.929
+    },
+    {
+      "name": "三重県",
+      "code": "240001",
+      "votes": [
+        { "party": "国民民主党", "count": 31494.987 },
+        { "party": "自由民主党", "count": 294787 },
+        { "party": "日本共産党", "count": 43250 },
+        { "party": "立憲民主党", "count": 202650.982 },
+        { "party": "日本維新の会", "count": 73845 },
+        { "party": "社会民主党", "count": 9560 },
+        { "party": "れいわ新選組", "count": 32018 },
+        { "party": "公明党", "count": 112091 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 11694 }
+      ],
+      "totalCount": 811390.969
+    },
+    {
+      "name": "滋賀県",
+      "code": "250007",
+      "votes": [
+        { "party": "れいわ新選組", "count": 27013 },
+        { "party": "国民民主党", "count": 32813.278 },
+        { "party": "立憲民主党", "count": 102056.703 },
+        { "party": "社会民主党", "count": 9568 },
+        { "party": "公明党", "count": 56067 },
+        { "party": "自由民主党", "count": 227218 },
+        { "party": "日本共産党", "count": 47019 },
+        { "party": "日本維新の会", "count": 137639 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 8420 }
+      ],
+      "totalCount": 647813.981
+    },
+    {
+      "name": "京都府",
+      "code": "260002",
+      "votes": [
+        { "party": "れいわ新選組", "count": 42599 },
+        { "party": "国民民主党", "count": 59593.651 },
+        { "party": "立憲民主党", "count": 158980.313 },
+        { "party": "社会民主党", "count": 13006 },
+        { "party": "公明党", "count": 113605 },
+        { "party": "自由民主党", "count": 338013 },
+        { "party": "日本共産党", "count": 152865 },
+        { "party": "日本維新の会", "count": 266728 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 14163 }
+      ],
+      "totalCount": 1159552.965
+    },
+    {
+      "name": "大阪府",
+      "code": "270008",
+      "votes": [
+        { "party": "れいわ新選組", "count": 114198 },
+        { "party": "国民民主党", "count": 89173.242 },
+        { "party": "立憲民主党", "count": 363555.685 },
+        { "party": "社会民主党", "count": 38596 },
+        { "party": "公明党", "count": 539724 },
+        { "party": "自由民主党", "count": 823963 },
+        { "party": "日本共産党", "count": 306725 },
+        { "party": "日本維新の会", "count": 1715862 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 44851 }
+      ],
+      "totalCount": 4036647.927
+    },
+    {
+      "name": "兵庫県",
+      "code": "280003",
+      "votes": [
+        { "party": "れいわ新選組", "count": 79532 },
+        { "party": "国民民主党", "count": 73463.944 },
+        { "party": "立憲民主党", "count": 324792.003 },
+        { "party": "社会民主党", "count": 28456 },
+        { "party": "公明党", "count": 297967 },
+        { "party": "自由民主党", "count": 666068 },
+        { "party": "日本共産党", "count": 151090 },
+        { "party": "日本維新の会", "count": 779820 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 29737 }
+      ],
+      "totalCount": 2430925.947
+    },
+    {
+      "name": "奈良県",
+      "code": "290009",
+      "votes": [
+        { "party": "れいわ新選組", "count": 17614 },
+        { "party": "国民民主党", "count": 22697.709 },
+        { "party": "立憲民主党", "count": 91054.254 },
+        { "party": "社会民主党", "count": 7500 },
+        { "party": "公明党", "count": 77011 },
+        { "party": "自由民主党", "count": 199926 },
+        { "party": "日本共産党", "count": 45841 },
+        { "party": "日本維新の会", "count": 183357 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 8319 }
+      ],
+      "totalCount": 653319.964
+    },
+    {
+      "name": "和歌山県",
+      "code": "300004",
+      "votes": [
+        { "party": "れいわ新選組", "count": 11527 },
+        { "party": "国民民主党", "count": 25738.174 },
+        { "party": "立憲民主党", "count": 50226.797 },
+        { "party": "社会民主党", "count": 3854 },
+        { "party": "公明党", "count": 71309 },
+        { "party": "自由民主党", "count": 152511 },
+        { "party": "日本共産党", "count": 32616 },
+        { "party": "日本維新の会", "count": 96813 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 6049 }
+      ],
+      "totalCount": 450643.972
+    },
+    {
+      "name": "鳥取県",
+      "code": "310000",
+      "votes": [
+        { "party": "国民民主党", "count": 8377.934 },
+        { "party": "公明党", "count": 43198 },
+        { "party": "社会民主党", "count": 4256 },
+        { "party": "れいわ新選組", "count": 9071 },
+        { "party": "日本維新の会", "count": 20601 },
+        { "party": "自由民主党", "count": 95732 },
+        { "party": "立憲民主党", "count": 62204.047 },
+        { "party": "日本共産党", "count": 15820 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 2789 }
+      ],
+      "totalCount": 262048.982
+    },
+    {
+      "name": "島根県",
+      "code": "320005",
+      "votes": [
+        { "party": "国民民主党", "count": 11710.183 },
+        { "party": "公明党", "count": 42761 },
+        { "party": "社会民主党", "count": 7015 },
+        { "party": "れいわ新選組", "count": 9677 },
+        { "party": "日本維新の会", "count": 24894 },
+        { "party": "自由民主党", "count": 143209 },
+        { "party": "立憲民主党", "count": 74178.796 },
+        { "party": "日本共産党", "count": 19384 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 3883 }
+      ],
+      "totalCount": 336711.98
+    },
+    {
+      "name": "岡山県",
+      "code": "330001",
+      "votes": [
+        { "party": "国民民主党", "count": 36888.958 },
+        { "party": "公明党", "count": 124344 },
+        { "party": "社会民主党", "count": 10669 },
+        { "party": "れいわ新選組", "count": 23544 },
+        { "party": "日本維新の会", "count": 76193 },
+        { "party": "自由民主党", "count": 295498 },
+        { "party": "立憲民主党", "count": 154386.004 },
+        { "party": "日本共産党", "count": 49420 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 10658 }
+      ],
+      "totalCount": 781600.963
+    },
+    {
+      "name": "広島県",
+      "code": "340006",
+      "votes": [
+        { "party": "国民民主党", "count": 41711.407 },
+        { "party": "公明党", "count": 146443 },
+        { "party": "社会民主党", "count": 22705 },
+        { "party": "れいわ新選組", "count": 32955 },
+        { "party": "日本維新の会", "count": 123542 },
+        { "party": "自由民主党", "count": 544121 },
+        { "party": "立憲民主党", "count": 201577.557 },
+        { "party": "日本共産党", "count": 58682 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 14716 }
+      ],
+      "totalCount": 1186452.964
+    },
+    {
+      "name": "山口県",
+      "code": "350001",
+      "votes": [
+        { "party": "国民民主党", "count": 15210.028 },
+        { "party": "公明党", "count": 79474 },
+        { "party": "社会民主党", "count": 7993 },
+        { "party": "れいわ新選組", "count": 19199 },
+        { "party": "日本維新の会", "count": 41072 },
+        { "party": "自由民主党", "count": 274163 },
+        { "party": "立憲民主党", "count": 80977.95 },
+        { "party": "日本共産党", "count": 29811 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 4712 }
+      ],
+      "totalCount": 552611.978
+    },
+    {
+      "name": "徳島県",
+      "code": "360007",
+      "votes": [
+        { "party": "社会民主党", "count": 3765 },
+        { "party": "公明党", "count": 46420 },
+        { "party": "国民民主党", "count": 12517.018 },
+        { "party": "自由民主党", "count": 115016 },
+        { "party": "日本共産党", "count": 22104 },
+        { "party": "日本維新の会", "count": 54800 },
+        { "party": "立憲民主党", "count": 50130.958 },
+        { "party": "れいわ新選組", "count": 12096 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 4751 }
+      ],
+      "totalCount": 321599.977
+    },
+    {
+      "name": "香川県",
+      "code": "370002",
+      "votes": [
+        { "party": "社会民主党", "count": 8995 },
+        { "party": "公明党", "count": 51723 },
+        { "party": "国民民主党", "count": 72739.265 },
+        { "party": "自由民主党", "count": 176572 },
+        { "party": "日本共産党", "count": 20013 },
+        { "party": "日本維新の会", "count": 38752 },
+        { "party": "立憲民主党", "count": 58071.716 },
+        { "party": "れいわ新選組", "count": 11208 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 5005 }
+      ],
+      "totalCount": 443078.981
+    },
+    {
+      "name": "愛媛県",
+      "code": "380008",
+      "votes": [
+        { "party": "社会民主党", "count": 12418 },
+        { "party": "公明党", "count": 86089 },
+        { "party": "国民民主党", "count": 26877.292 },
+        { "party": "自由民主党", "count": 248667 },
+        { "party": "日本共産党", "count": 31689 },
+        { "party": "日本維新の会", "count": 60253 },
+        { "party": "立憲民主党", "count": 112546.686 },
+        { "party": "れいわ新選組", "count": 19734 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 7473 }
+      ],
+      "totalCount": 605746.978
+    },
+    {
+      "name": "高知県",
+      "code": "390003",
+      "votes": [
+        { "party": "社会民主党", "count": 5071 },
+        { "party": "公明党", "count": 49175 },
+        { "party": "国民民主党", "count": 9948.63 },
+        { "party": "自由民主党", "count": 124550 },
+        { "party": "日本共産党", "count": 34215 },
+        { "party": "日本維新の会", "count": 20021 },
+        { "party": "立憲民主党", "count": 71121.334 },
+        { "party": "れいわ新選組", "count": 9903 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 4056 }
+      ],
+      "totalCount": 328060.966
+    },
+    {
+      "name": "福岡県",
+      "code": "400009",
+      "votes": [
+        { "party": "公明党", "count": 371843 },
+        { "party": "立憲民主党", "count": 414722.492 },
+        { "party": "日本維新の会", "count": 237590 },
+        { "party": "日本共産党", "count": 139724 },
+        { "party": "れいわ新選組", "count": 92833 },
+        { "party": "自由民主党", "count": 706799 },
+        { "party": "社会民主党", "count": 53427 },
+        { "party": "国民民主党", "count": 93864.435 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 33058 }
+      ],
+      "totalCount": 2143860.928
+    },
+    {
+      "name": "佐賀県",
+      "code": "410004",
+      "votes": [
+        { "party": "公明党", "count": 49119 },
+        { "party": "立憲民主党", "count": 99058.394 },
+        { "party": "日本維新の会", "count": 23596 },
+        { "party": "日本共産党", "count": 14659 },
+        { "party": "れいわ新選組", "count": 12187 },
+        { "party": "自由民主党", "count": 158771 },
+        { "party": "社会民主党", "count": 8106 },
+        { "party": "国民民主党", "count": 13236.586 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 5201 }
+      ],
+      "totalCount": 383933.98
+    },
+    {
+      "name": "長崎県",
+      "code": "420000",
+      "votes": [
+        { "party": "公明党", "count": 96643 },
+        { "party": "立憲民主党", "count": 121086.596 },
+        { "party": "日本維新の会", "count": 44033 },
+        { "party": "日本共産党", "count": 29740 },
+        { "party": "れいわ新選組", "count": 18420 },
+        { "party": "自由民主党", "count": 228030 },
+        { "party": "社会民主党", "count": 15197 },
+        { "party": "国民民主党", "count": 53700.38 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 7129 }
+      ],
+      "totalCount": 613978.976
+    },
+    {
+      "name": "熊本県",
+      "code": "430005",
+      "votes": [
+        { "party": "公明党", "count": 135533 },
+        { "party": "立憲民主党", "count": 151508.844 },
+        { "party": "日本維新の会", "count": 56937 },
+        { "party": "日本共産党", "count": 34073 },
+        { "party": "れいわ新選組", "count": 27359 },
+        { "party": "自由民主党", "count": 323194 },
+        { "party": "社会民主党", "count": 19517 },
+        { "party": "国民民主党", "count": 30751.105 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 14051 }
+      ],
+      "totalCount": 792923.95
+    },
+    {
+      "name": "大分県",
+      "code": "440001",
+      "votes": [
+        { "party": "公明党", "count": 74279 },
+        { "party": "立憲民主党", "count": 118319.874 },
+        { "party": "日本維新の会", "count": 39846 },
+        { "party": "日本共産党", "count": 28081 },
+        { "party": "れいわ新選組", "count": 18714 },
+        { "party": "自由民主党", "count": 192218 },
+        { "party": "社会民主党", "count": 28037 },
+        { "party": "国民民主党", "count": 19992.106 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 7817 }
+      ],
+      "totalCount": 527303.981
+    },
+    {
+      "name": "宮崎県",
+      "code": "450006",
+      "votes": [
+        { "party": "公明党", "count": 76674 },
+        { "party": "立憲民主党", "count": 81256.996 },
+        { "party": "日本維新の会", "count": 42888 },
+        { "party": "日本共産党", "count": 24895 },
+        { "party": "れいわ新選組", "count": 13297 },
+        { "party": "自由民主党", "count": 183582 },
+        { "party": "社会民主党", "count": 16568 },
+        { "party": "国民民主党", "count": 24824.979 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 8258 }
+      ],
+      "totalCount": 472243.975
+    },
+    {
+      "name": "鹿児島県",
+      "code": "460001",
+      "votes": [
+        { "party": "公明党", "count": 107198 },
+        { "party": "立憲民主党", "count": 155735.061 },
+        { "party": "日本維新の会", "count": 58188 },
+        { "party": "日本共産党", "count": 34335 },
+        { "party": "れいわ新選組", "count": 24062 },
+        { "party": "自由民主党", "count": 310855 },
+        { "party": "社会民主党", "count": 26703 },
+        { "party": "国民民主党", "count": 23588.894 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 11460 }
+      ],
+      "totalCount": 752124.954
+    },
+    {
+      "name": "沖縄県",
+      "code": "470007",
+      "votes": [
+        { "party": "公明党", "count": 129467 },
+        { "party": "立憲民主党", "count": 125113.182 },
+        { "party": "日本維新の会", "count": 37260 },
+        { "party": "日本共産党", "count": 60151 },
+        { "party": "れいわ新選組", "count": 36412 },
+        { "party": "自由民主党", "count": 147517 },
+        { "party": "社会民主党", "count": 53666 },
+        { "party": "国民民主党", "count": 19550.693 },
+        { "party": "NHKと裁判してる党弁護士法72条違反で", "count": 11532 }
+      ],
+      "totalCount": 620668.874
+    }
+  ]
+}

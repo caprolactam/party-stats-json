@@ -1,4 +1,4 @@
-総務省の公開する国政選挙における比例代表の市町村別得票数（たとえば[第50回衆議院議員総選挙における市区町村別得票数](https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin50/index.html)）をJSONに加工したものです。具体的な出典については各JSONの`source`プロパティを参考にしてください。
+総務省が公開する国政選挙における比例代表の市区町村別得票数（たとえば[第50回衆議院議員総選挙における市区町村別得票数](https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin50/index.html)）をJSONに加工したものです。具体的な出典については各JSONの`source`プロパティを参考にしてください。
 
 ## データの利用
 
@@ -22,7 +22,7 @@
 
 ### 元データに不一致があり正しいデータが確定できない場合
 
-たとえば、[第25回参議院議員総選挙](https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin25/index.html)において長野県全体の「安楽死制度を考える会」の得票総数が、都道府県別党派別得票数（比例代表）および長野県候補者別市区町村別得票数で異なります（「労働の解放をめざす労働者党」についても同様）。このため長野県ないし全国での得票数を確定させることができません。
+たとえば、[第25回参議院議員通常選挙](https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin25/index.html)において長野県全体の「安楽死制度を考える会」の得票総数が、都道府県別党派別得票数（比例代表）および長野県候補者別市区町村別得票数で異なります（「労働の解放をめざす労働者党」についても同様）。このため長野県ないし全国での得票数を確定させることができません。
 
 このリポジトリでは、各市町村別得票数のデータが正しいものとみなして集計を行っています。
 
@@ -49,7 +49,7 @@ type All = {
 `regions/*.json`
 
 ```ts
-type Region = {
+type Regions = {
   name: string; // 選挙名
   source: string; // 出典
   electionType: 'shugiin' | 'sangiin';
