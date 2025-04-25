@@ -1,1 +1,138 @@
-{"name":"第48回衆議院議員総選挙","source":"https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/index.html","electionType":"shugiin","date":"2017-10-22","result":[{"name":"北海道","votes":[{"party":"公明党","count":298573},{"party":"新党大地","count":226552},{"party":"日本共産党","count":230316},{"party":"自由民主党","count":779903},{"party":"希望の党","count":331463},{"party":"日本維新の会","count":74701},{"party":"立憲民主党","count":714032},{"party":"幸福実現党","count":13983},{"party":"社会民主党","count":37374}],"totalCount":2706897},{"name":"東北","votes":[{"party":"公明党","count":463740},{"party":"日本維新の会","count":127674},{"party":"日本のこころ","count":44960},{"party":"社会民主党","count":105589},{"party":"日本共産党","count":310559},{"party":"幸福実現党","count":22626},{"party":"自由民主党","count":1453871},{"party":"希望の党","count":912819},{"party":"立憲民主党","count":761117}],"totalCount":4202955},{"name":"関東","votes":[{"party":"日本のこころ","count":40592},{"party":"支持政党なし","count":125019},{"party":"希望の党","count":3377904},{"party":"立憲民主党","count":4335718},{"party":"日本維新の会","count":670504},{"party":"幸福実現党","count":71707},{"party":"公明党","count":2216766},{"party":"社会民主党","count":210234},{"party":"自由民主党","count":6158791},{"party":"日本共産党","count":1618361}],"totalCount":18825596},{"name":"北陸信越","votes":[{"party":"公明党","count":318050},{"party":"日本維新の会","count":164714},{"party":"幸福実現党","count":25064},{"party":"社会民主党","count":90218},{"party":"自由民主党","count":1328838},{"party":"希望の党","count":688924},{"party":"日本共産党","count":267777},{"party":"立憲民主党","count":699426}],"totalCount":3583011},{"name":"東海","votes":[{"party":"立憲民主党","count":1418633},{"party":"日本共産党","count":450970},{"party":"幸福実現党","count":38580},{"party":"希望の党","count":1445549},{"party":"社会民主党","count":67445},{"party":"自由民主党","count":2237838},{"party":"公明党","count":781228},{"party":"日本維新の会","count":297759}],"totalCount":6738002},{"name":"近畿","votes":[{"party":"公明党","count":1164995},{"party":"社会民主党","count":78702},{"party":"自由民主党","count":2586424},{"party":"日本維新の会","count":1544821},{"party":"希望の党","count":913860},{"party":"幸福実現党","count":36774},{"party":"立憲民主党","count":1335360},{"party":"日本共産党","count":786158}],"totalCount":8447094},{"name":"中国","votes":[{"party":"公明党","count":476270},{"party":"日本維新の会","count":151221},{"party":"希望の党","count":514191},{"party":"幸福実現党","count":20701},{"party":"日本共産党","count":199152},{"party":"自由民主党","count":1249073},{"party":"社会民主党","count":44240},{"party":"立憲民主党","count":533050}],"totalCount":3187898},{"name":"四国","votes":[{"party":"幸福実現党","count":12356},{"party":"日本共産党","count":118826},{"party":"立憲民主党","count":232965},{"party":"自由民主党","count":579225},{"party":"希望の党","count":324106},{"party":"社会民主党","count":29818},{"party":"日本維新の会","count":78500},{"party":"公明党","count":236863}],"totalCount":1612659},{"name":"九州","votes":[{"party":"自由民主党","count":2181754},{"party":"幸福実現党","count":50293},{"party":"公明党","count":1021227},{"party":"社会民主党","count":277704},{"party":"日本共産党","count":421962},{"party":"立憲民主党","count":1054589},{"party":"希望の党","count":1168708},{"party":"日本維新の会","count":277203}],"totalCount":6453440}]}
+{
+  "name": "第48回衆議院議員総選挙",
+  "source": "https://www.soumu.go.jp/senkyo/senkyo_s/data/shugiin48/index.html",
+  "electionType": "shugiin",
+  "date": "2017-10-22",
+  "result": [
+    {
+      "name": "北海道",
+      "votes": [
+        { "party": "公明党", "count": 298573 },
+        { "party": "新党大地", "count": 226552 },
+        { "party": "日本共産党", "count": 230316 },
+        { "party": "自由民主党", "count": 779903 },
+        { "party": "希望の党", "count": 331463 },
+        { "party": "日本維新の会", "count": 74701 },
+        { "party": "立憲民主党", "count": 714032 },
+        { "party": "幸福実現党", "count": 13983 },
+        { "party": "社会民主党", "count": 37374 }
+      ],
+      "totalCount": 2706897
+    },
+    {
+      "name": "東北",
+      "votes": [
+        { "party": "公明党", "count": 463740 },
+        { "party": "日本維新の会", "count": 127674 },
+        { "party": "日本のこころ", "count": 44960 },
+        { "party": "社会民主党", "count": 105589 },
+        { "party": "日本共産党", "count": 310559 },
+        { "party": "幸福実現党", "count": 22626 },
+        { "party": "自由民主党", "count": 1453871 },
+        { "party": "希望の党", "count": 912819 },
+        { "party": "立憲民主党", "count": 761117 }
+      ],
+      "totalCount": 4202955
+    },
+    {
+      "name": "関東",
+      "votes": [
+        { "party": "日本のこころ", "count": 40592 },
+        { "party": "支持政党なし", "count": 125019 },
+        { "party": "希望の党", "count": 3377904 },
+        { "party": "立憲民主党", "count": 4335718 },
+        { "party": "日本維新の会", "count": 670504 },
+        { "party": "幸福実現党", "count": 71707 },
+        { "party": "公明党", "count": 2216766 },
+        { "party": "社会民主党", "count": 210234 },
+        { "party": "自由民主党", "count": 6158791 },
+        { "party": "日本共産党", "count": 1618361 }
+      ],
+      "totalCount": 18825596
+    },
+    {
+      "name": "北陸信越",
+      "votes": [
+        { "party": "公明党", "count": 318050 },
+        { "party": "日本維新の会", "count": 164714 },
+        { "party": "幸福実現党", "count": 25064 },
+        { "party": "社会民主党", "count": 90218 },
+        { "party": "自由民主党", "count": 1328838 },
+        { "party": "希望の党", "count": 688924 },
+        { "party": "日本共産党", "count": 267777 },
+        { "party": "立憲民主党", "count": 699426 }
+      ],
+      "totalCount": 3583011
+    },
+    {
+      "name": "東海",
+      "votes": [
+        { "party": "立憲民主党", "count": 1418633 },
+        { "party": "日本共産党", "count": 450970 },
+        { "party": "幸福実現党", "count": 38580 },
+        { "party": "希望の党", "count": 1445549 },
+        { "party": "社会民主党", "count": 67445 },
+        { "party": "自由民主党", "count": 2237838 },
+        { "party": "公明党", "count": 781228 },
+        { "party": "日本維新の会", "count": 297759 }
+      ],
+      "totalCount": 6738002
+    },
+    {
+      "name": "近畿",
+      "votes": [
+        { "party": "公明党", "count": 1164995 },
+        { "party": "社会民主党", "count": 78702 },
+        { "party": "自由民主党", "count": 2586424 },
+        { "party": "日本維新の会", "count": 1544821 },
+        { "party": "希望の党", "count": 913860 },
+        { "party": "幸福実現党", "count": 36774 },
+        { "party": "立憲民主党", "count": 1335360 },
+        { "party": "日本共産党", "count": 786158 }
+      ],
+      "totalCount": 8447094
+    },
+    {
+      "name": "中国",
+      "votes": [
+        { "party": "公明党", "count": 476270 },
+        { "party": "日本維新の会", "count": 151221 },
+        { "party": "希望の党", "count": 514191 },
+        { "party": "幸福実現党", "count": 20701 },
+        { "party": "日本共産党", "count": 199152 },
+        { "party": "自由民主党", "count": 1249073 },
+        { "party": "社会民主党", "count": 44240 },
+        { "party": "立憲民主党", "count": 533050 }
+      ],
+      "totalCount": 3187898
+    },
+    {
+      "name": "四国",
+      "votes": [
+        { "party": "幸福実現党", "count": 12356 },
+        { "party": "日本共産党", "count": 118826 },
+        { "party": "立憲民主党", "count": 232965 },
+        { "party": "自由民主党", "count": 579225 },
+        { "party": "希望の党", "count": 324106 },
+        { "party": "社会民主党", "count": 29818 },
+        { "party": "日本維新の会", "count": 78500 },
+        { "party": "公明党", "count": 236863 }
+      ],
+      "totalCount": 1612659
+    },
+    {
+      "name": "九州",
+      "votes": [
+        { "party": "自由民主党", "count": 2181754 },
+        { "party": "幸福実現党", "count": 50293 },
+        { "party": "公明党", "count": 1021227 },
+        { "party": "社会民主党", "count": 277704 },
+        { "party": "日本共産党", "count": 421962 },
+        { "party": "立憲民主党", "count": 1054589 },
+        { "party": "希望の党", "count": 1168708 },
+        { "party": "日本維新の会", "count": 277203 }
+      ],
+      "totalCount": 6453440
+    }
+  ]
+}

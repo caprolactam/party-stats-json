@@ -1,1 +1,24 @@
-{"name":"第25回参議院議員総選挙","source":"https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin25/index.html","electionType":"sangiin","date":"2019-07-21","result":{"votes":[{"party":"日本共産党","count":4483411.183},{"party":"自由民主党","count":17712373.119},{"party":"オリーブの木","count":167897.996},{"party":"社会民主党","count":1046011.52},{"party":"公明党","count":6536336.45},{"party":"国民民主党","count":3481078.4},{"party":"日本維新の会","count":4907844.387},{"party":"幸福実現党","count":202278.772},{"party":"立憲民主党","count":7917720.944},{"party":"労働の解放をめざす労働者党","count":80012.927},{"party":"ＮＨＫから国民を守る党","count":987885.326},{"party":"安楽死制度を考える会","count":269017},{"party":"れいわ新選組","count":2280252.75}],"totalCount":50072120.777}}
+{
+  "name": "第25回参議院議員総選挙",
+  "source": "https://www.soumu.go.jp/senkyo/senkyo_s/data/sangiin25/index.html",
+  "electionType": "sangiin",
+  "date": "2019-07-21",
+  "result": {
+    "votes": [
+      { "party": "日本共産党", "count": 4483411.183 },
+      { "party": "自由民主党", "count": 17712373.119 },
+      { "party": "オリーブの木", "count": 167897.996 },
+      { "party": "社会民主党", "count": 1046011.52 },
+      { "party": "公明党", "count": 6536336.45 },
+      { "party": "国民民主党", "count": 3481078.4 },
+      { "party": "日本維新の会", "count": 4907844.387 },
+      { "party": "幸福実現党", "count": 202278.772 },
+      { "party": "立憲民主党", "count": 7917720.944 },
+      { "party": "労働の解放をめざす労働者党", "count": 80012.927 },
+      { "party": "ＮＨＫから国民を守る党", "count": 987885.326 },
+      { "party": "安楽死制度を考える会", "count": 269017 },
+      { "party": "れいわ新選組", "count": 2280252.75 }
+    ],
+    "totalCount": 50072120.777
+  }
+}
